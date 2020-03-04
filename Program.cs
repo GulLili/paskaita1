@@ -8,7 +8,7 @@ namespace paskaita1
         {
             Console.WriteLine("Sveiki, koks jūsų vardas?");
             string vartotojoVardas = Console.ReadLine();
-            Console.WriteLine("Jus įvedėte" + " " + vartotojoVardas);
+            Console.WriteLine("Atsakymas:" + vartotojoVardas);
             
         }
     }
